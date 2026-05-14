@@ -5,7 +5,7 @@
 IT professional with nearly 4 years of experience bridging end-users and developers — administering ERP systems, managing hardware/software assets, and building full-stack solutions. Passionate about integrating AI tools into real operational workflows and delivering data-driven insights.
 
 <p align="left">
-   <a href="www.linkedin.com/in/johnkennethgregorio">
+   <a href="https://www.linkedin.com/in/johnkennethgregorio">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://github.com/YOUR-GITHUB?tab=followers">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
