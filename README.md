@@ -9,9 +9,9 @@ IT professional with nearly 4 years of experience bridging end-users and develop
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://github.com/YOUR-GITHUB?tab=followers">
       <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/YOUR-GITHUB?tab=repositories&sort=stargazers">
+   <a href="https://github.com/kenBeCoded?tab=repositories">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR-GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   <a href="YOUR-PORTFOLIO-URL">
+   <a href="https://jkg-portfolio-v2.vercel.app">
       <img alt="portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-ff6b6b?style=for-the-badge&logo=globe&logoColor=white"/></a>
 </p>
 
